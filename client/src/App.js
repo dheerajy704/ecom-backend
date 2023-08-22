@@ -1,4 +1,3 @@
-
 import './App.css';
 import Layout from './components/Layouts/Layout';
 
@@ -7,7 +6,7 @@ function App() {
     <>
     <Layout>
             <h1>E-commercce</h1>
-        </Layout>
+    </Layout>
     </>
   );
 }
